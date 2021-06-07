@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.7)  7 JUN 2021 23:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.7)  7 JUN 2021 23:43
 entering extended mode
 **b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex
 (b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex
@@ -218,7 +218,23 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box51
-) (PCA.aux)
+) (PCA.aux
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+
+LaTeX Warning: Label `fig' multiply defined.
+
+)
 \openout1 = `PCA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -256,142 +272,87 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\arman\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 44.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
  (C:\Users\arman\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
  (C:\Users\arman\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Citation `Lamrini' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Genender' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Liu' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Onana' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Xu' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Nocke' on page 1 undefined on input line 56.
-
-
-LaTeX Warning: Citation `Salem' on page 1 undefined on input line 56.
-
-
-LaTeX Warning: Citation `Houari' on page 1 undefined on input line 62.
-
-
-LaTeX Warning: Citation `Menon' on page 1 undefined on input line 62.
-
-
-LaTeX Warning: Citation `Rehman' on page 1 undefined on input line 62.
-
-
-LaTeX Warning: Citation `A' on page 1 undefined on input line 62.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1{C:/Users/arman/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+) [1{C:/Users/arman/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
 ]
-
-LaTeX Warning: Citation `D' on page 2 undefined on input line 65.
-
-
-Overfull \hbox (4.61113pt too wide) detected at line 109
+Overfull \hbox (4.61113pt too wide) detected at line 90
 [] \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 X[] \OT1/cmr/m/n/10 = [] [] 
  []
 
+<pair_plot.png, id=12, 873.2625pt x 785.93625pt>
+File: pair_plot.png Graphic file (type png)
+<use pair_plot.png>
+Package pdftex.def Info: pair_plot.png  used on input line 124.
+(pdftex.def)             Requested size: 261.98076pt x 235.78268pt.
 [2]
-
-LaTeX Warning: File `pairplot.png' not found on input line 143.
-
-
-b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex:143: Package pdftex.def Error: File `pairplot.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.143 ...includegraphics[scale=0.3]{pairplot.png}}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 143.
-(C:\Users\arman\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
-File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-)
-<Covariance Matrix.png, id=19, 311.36325pt x 68.05424pt>
+<Covariance Matrix.png, id=21, 311.36325pt x 68.05424pt>
 File: Covariance Matrix.png Graphic file (type png)
 <use Covariance Matrix.png>
-Package pdftex.def Info: Covariance Matrix.png  used on input line 155.
+Package pdftex.def Info: Covariance Matrix.png  used on input line 136.
 (pdftex.def)             Requested size: 217.95279pt x 47.63763pt.
-<Eval and Evec.png, id=21, 307.1475pt x 111.41624pt>
+<Eval and Evec.png, id=22, 307.1475pt x 111.41624pt>
 File: Eval and Evec.png Graphic file (type png)
 <use Eval and Evec.png>
-Package pdftex.def Info: Eval and Evec.png  used on input line 161.
+Package pdftex.def Info: Eval and Evec.png  used on input line 142.
 (pdftex.def)             Requested size: 215.00177pt x 77.99083pt.
-<Ev_sorted.png, id=22, 302.93175pt x 80.09924pt>
+<Ev_sorted.png, id=23, 302.93175pt x 80.09924pt>
 File: Ev_sorted.png Graphic file (type png)
 <use Ev_sorted.png>
-Package pdftex.def Info: Ev_sorted.png  used on input line 167.
+Package pdftex.def Info: Ev_sorted.png  used on input line 148.
 (pdftex.def)             Requested size: 212.05077pt x 56.06906pt.
-<Variance_exp.png, id=23, 566.61688pt x 420.57124pt>
+<Variance_exp.png, id=24, 566.61688pt x 420.57124pt>
 File: Variance_exp.png Graphic file (type png)
 <use Variance_exp.png>
-Package pdftex.def Info: Variance_exp.png  used on input line 173.
+Package pdftex.def Info: Variance_exp.png  used on input line 154.
 (pdftex.def)             Requested size: 226.64273pt x 168.22551pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PC1_PC2_dark.png, id=24, 564.1075pt x 371.3875pt>
+<PC1_PC2_dark.png, id=25, 564.1075pt x 371.3875pt>
 File: PC1_PC2_dark.png Graphic file (type png)
 <use PC1_PC2_dark.png>
-Package pdftex.def Info: PC1_PC2_dark.png  used on input line 179.
+Package pdftex.def Info: PC1_PC2_dark.png  used on input line 160.
 (pdftex.def)             Requested size: 225.63899pt x 148.55235pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./Covariance Matrix.png> <./Eval and Evec.png> <./Ev_sorted.png>]
-Underfull \hbox (badness 3735) in paragraph at lines 192--193
+[3 <./pair_plot.png> <./Covariance Matrix.png> <./Eval and Evec.png> <./Ev_sorted.png>]
+Underfull \hbox (badness 3735) in paragraph at lines 173--174
 []\OT1/ptm/m/n/8 A. Genender-Feltheimer, \Vi-su-al-iz-ing high di-men-sional and big
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 194--195
+Underfull \hbox (badness 6188) in paragraph at lines 175--176
 \OT1/ptm/m/n/8 Ad-vances and Chal-lenges," Int. J. Com-put. Appl., vol. 162,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 \OT1/ptm/m/n/8 no. March 2017, pp. 23{27, 2017, [On-line]. Avail-able:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 \OT1/ptm/m/n/8 http://www.ijcaonline.org/archives/volume162/number10/27280-
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 201--202
+Underfull \hbox (badness 5245) in paragraph at lines 182--183
 []\OT1/ptm/m/n/8 A. Thar-wat, \Prin-ci-pal com-po-nent anal-y-sis - a tu-to-rial," Int.
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 201--202
+Underfull \hbox (badness 2735) in paragraph at lines 182--183
 \OT1/ptm/m/n/8 J. Appl. Pat-tern Recog-nit., vol. 3, no. 3, p. 197, 2016, doi:
  []
 
@@ -408,24 +369,21 @@ Before submitting the final camera ready copy, remember to:
 
 [4 <./Variance_exp.png> <./PC1_PC2_dark.png>] (PCA.aux)
 
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4018 strings out of 479321
- 59381 string characters out of 2856584
- 376547 words of memory out of 3000000
- 21428 multiletter control sequences out of 15000+600000
- 441450 words of font info for 103 fonts, out of 8000000 for 9000
+ 3959 strings out of 479321
+ 58630 string characters out of 2856584
+ 377633 words of memory out of 3000000
+ 21387 multiletter control sequences out of 15000+600000
+ 439828 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,74p,1746b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on PCA.pdf (4 pages, 232911 bytes).
+ 68i,11n,74p,1734b,323s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PCA.pdf (4 pages, 337464 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
