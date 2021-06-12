@@ -121,7 +121,7 @@ To reduce the dimension of a $d$-dimensional dataset and project the new dimensi
 \subsection{Iris dataset}
 The iris dataset contains $150$ Iris flowers from $3$ different species. It is a $150\times 4$ matrix where the columns are different features (sepal length, sepal width, petal length, petal width) and every row represents a separate flower sample. The three classes in the Iris dataset are Setosa (n=$50$), Versicolor (n=$50$), and Virginica (n=$50$). Within the dataset, the “Setosa” class is linearly separable from the other classes across all features combination as shown in Fig. 1. 
 \begin{figure}[h]
-\centerline{\includegraphics[scale=0.3]{pair_plot.png}}
+\centerline{\includegraphics[scale=0.3]{Figures/pair_plot.png}}
 \caption{Iris dataset visualization across feature combination.}
 \label{fig}
 \end{figure}
@@ -133,31 +133,31 @@ The second step of the algorithm consists of standardizing the dataset (zero mea
 In the third step, we choose the top $k$ eigenvectors, the principal component is selected by sorting the eigenvalues in descending order and selecting shown in Fig. 4. The typical goal of a PCA is to reduce the dimensionality of the original feature space by projecting it onto a smaller subspace. To decide which eigenvector(s) can be dropped without losing too much information for the construction of a lower-dimensional subspace, the corresponding eigenvalues must be analyzed. Eigenvectors with the lowest eigenvalues bear the least information about the distribution of the data therefore they can be dropped. The common approach is to rank the eigenvalues from highest to lowest to choose the top $k$ eigenvectors. After deciding which eigenvectors to use, we also choose the number of principal components for the new feature subspace, to do so, we used the explained variance method, obtained from the eigenvalues and that tells us how much variance (extra information) that each component contribute. The plot in Fig. 5, shows that 72.77\% of the variance can be represented by the first principal component. The second principal component carries 23.0\% of information compared to the third and fourth component which can be safely dropped without affecting much the structure of the data. By combining the first two components we obtain 95.8\% of the variance, which means 95.8\% of the information is preserved. 
 The last step consists of the projection of the original data onto the new feature space. We use $4\times2$ dimensional eigenvectors to transform our data onto the new subspace, we reduce the dimension from the original 4 dimensions down to 2. Now our new features are represented by $150\times2$ as shown in Fig. 6.
 \begin{figure}[h]
-\centerline{\includegraphics[scale=0.7]{Covariance Matrix.png}}
+\centerline{\includegraphics[scale=0.7]{Figures/Covariance Matrix.png}}
 \caption{Covariance matrix.}
 \label{fig}
 \end{figure}
 
 \begin{figure}[h]
-\centerline{\includegraphics[scale=0.7]{Eval and Evec.png}}
+\centerline{\includegraphics[scale=0.7]{Figures/Eval and Evec.png}}
 \caption{Eigenvectors and Eigenvalues.}
 \label{fig}
 \end{figure}
 
 \begin{figure}[h]
-\centerline{\includegraphics[scale=0.7]{Ev_sorted.png}}
+\centerline{\includegraphics[scale=0.7]{Figures/Ev_sorted.png}}
 \caption{Eigenvalues sorted in descending order.}
 \label{fig}
 \end{figure}
 
 \begin{figure}[h]
-\centerline{\includegraphics[scale=0.4]{Variance_exp.png}}
+\centerline{\includegraphics[scale=0.4]{Figures/Variance_exp.png}}
 \caption{Cumulative and individual explained variance.}
 \label{fig}
 \end{figure}
 
 \begin{figure}[h]
-\centerline{\includegraphics[scale=0.4]{PC1_PC2_dark.png}}
+\centerline{\includegraphics[scale=0.4]{Figures/PC1_PC2_dark.png}}
 \caption{Representation of Iris dataset in the new feature space.}
 \label{fig}
 \end{figure}
