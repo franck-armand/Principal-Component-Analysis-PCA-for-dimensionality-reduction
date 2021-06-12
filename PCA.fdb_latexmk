@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1623080621 "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" "PCA.pdf" "PCA" 1623080623
+["pdflatex"] 1623504737 "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" "PCA.pdf" "PCA" 1623504819
   "C:/Users/arman/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1620403117 9524576 a7f0569f2ee3a2ba8427a89730f1172e ""
   "C:/Users/arman/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1621100114 325257 7a232ad811bc115500314483cd62b1cf ""
   "C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -70,16 +70,16 @@
   "C:/Users/arman/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1616086534 27164 3d5f7887a89df4eb2f6e86ba26ef3254 ""
   "C:/Users/arman/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/arman/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1463135581 57049 34128738f682d033422ca125f82e5d62 ""
-  "Covariance Matrix.png" 1606392865 9477 31417f72a9dc4a5a5837b1ddf4666ce5 ""
-  "Ev_sorted.png" 1606392969 6216 f254f8d96c5998b29230efeb2a007a78 ""
-  "Eval and Evec.png" 1606392900 11982 59bc48a64b8135034e0b6ac1bca3b661 ""
-  "PC1_PC2_dark.png" 1606398261 42750 5217aba2d8e8cb7d361215d4736a4b41 ""
-  "PCA.aux" 1623080623 3038 0dd48c52de5bf47ae287aeceb68d8169 "pdflatex"
-  "PCA.tex" 1623080620 19952 a44151dcc1e60b24ea1430c0878ab9e3 ""
-  "Variance_exp.png" 1606394786 44802 fd06fa375c481615c462054ac67fe1f3 ""
-  "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" 1623080620 19952 a44151dcc1e60b24ea1430c0878ab9e3 ""
-  "pair_plot.png" 1623079438 192595 44c441983c4fd6b1caf1534401f4186e ""
+  "Figures/Covariance Matrix.png" 1623504818 9477 31417f72a9dc4a5a5837b1ddf4666ce5 ""
+  "Figures/Ev_sorted.png" 1623504239 6216 f254f8d96c5998b29230efeb2a007a78 ""
+  "Figures/Eval and Evec.png" 1623504243 11982 59bc48a64b8135034e0b6ac1bca3b661 ""
+  "Figures/PC1_PC2_dark.png" 1623504246 42750 5217aba2d8e8cb7d361215d4736a4b41 ""
+  "Figures/Variance_exp.png" 1623504255 44802 fd06fa375c481615c462054ac67fe1f3 ""
+  "Figures/pair_plot.png" 1623504163 192595 44c441983c4fd6b1caf1534401f4186e ""
+  "PCA.aux" 1623504739 3038 0dd48c52de5bf47ae287aeceb68d8169 "pdflatex"
+  "PCA.tex" 1623504736 20000 554b73afed9e9204cf1ad12ce21d00d1 ""
+  "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" 1623504736 20000 554b73afed9e9204cf1ad12ce21d00d1 ""
   (generated)
-  "PCA.aux"
   "PCA.pdf"
+  "PCA.aux"
   "PCA.log"

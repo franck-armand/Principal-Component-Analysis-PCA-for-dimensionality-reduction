@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.7)  7 JUN 2021 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.5.7)  12 JUN 2021 21:32
 entering extended mode
 **b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex
 (b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex
@@ -288,45 +288,45 @@ Overfull \hbox (4.61113pt too wide) detected at line 90
 [] \OT1/cmr/m/n/10 = []\OML/cmm/m/it/10 X[] \OT1/cmr/m/n/10 = [] [] 
  []
 
-<pair_plot.png, id=12, 873.2625pt x 785.93625pt>
-File: pair_plot.png Graphic file (type png)
-<use pair_plot.png>
-Package pdftex.def Info: pair_plot.png  used on input line 124.
+<Figures/pair_plot.png, id=12, 873.2625pt x 785.93625pt>
+File: Figures/pair_plot.png Graphic file (type png)
+<use Figures/pair_plot.png>
+Package pdftex.def Info: Figures/pair_plot.png  used on input line 124.
 (pdftex.def)             Requested size: 261.98076pt x 235.78268pt.
 [2]
-<Covariance Matrix.png, id=21, 311.36325pt x 68.05424pt>
-File: Covariance Matrix.png Graphic file (type png)
-<use Covariance Matrix.png>
-Package pdftex.def Info: Covariance Matrix.png  used on input line 136.
+<Figures/Covariance Matrix.png, id=21, 311.36325pt x 68.05424pt>
+File: Figures/Covariance Matrix.png Graphic file (type png)
+<use Figures/Covariance Matrix.png>
+Package pdftex.def Info: Figures/Covariance Matrix.png  used on input line 136.
 (pdftex.def)             Requested size: 217.95279pt x 47.63763pt.
-<Eval and Evec.png, id=22, 307.1475pt x 111.41624pt>
-File: Eval and Evec.png Graphic file (type png)
-<use Eval and Evec.png>
-Package pdftex.def Info: Eval and Evec.png  used on input line 142.
+<Figures/Eval and Evec.png, id=22, 307.1475pt x 111.41624pt>
+File: Figures/Eval and Evec.png Graphic file (type png)
+<use Figures/Eval and Evec.png>
+Package pdftex.def Info: Figures/Eval and Evec.png  used on input line 142.
 (pdftex.def)             Requested size: 215.00177pt x 77.99083pt.
-<Ev_sorted.png, id=23, 302.93175pt x 80.09924pt>
-File: Ev_sorted.png Graphic file (type png)
-<use Ev_sorted.png>
-Package pdftex.def Info: Ev_sorted.png  used on input line 148.
+<Figures/Ev_sorted.png, id=23, 302.93175pt x 80.09924pt>
+File: Figures/Ev_sorted.png Graphic file (type png)
+<use Figures/Ev_sorted.png>
+Package pdftex.def Info: Figures/Ev_sorted.png  used on input line 148.
 (pdftex.def)             Requested size: 212.05077pt x 56.06906pt.
-<Variance_exp.png, id=24, 566.61688pt x 420.57124pt>
-File: Variance_exp.png Graphic file (type png)
-<use Variance_exp.png>
-Package pdftex.def Info: Variance_exp.png  used on input line 154.
+<Figures/Variance_exp.png, id=24, 566.61688pt x 420.57124pt>
+File: Figures/Variance_exp.png Graphic file (type png)
+<use Figures/Variance_exp.png>
+Package pdftex.def Info: Figures/Variance_exp.png  used on input line 154.
 (pdftex.def)             Requested size: 226.64273pt x 168.22551pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<PC1_PC2_dark.png, id=25, 564.1075pt x 371.3875pt>
-File: PC1_PC2_dark.png Graphic file (type png)
-<use PC1_PC2_dark.png>
-Package pdftex.def Info: PC1_PC2_dark.png  used on input line 160.
+<Figures/PC1_PC2_dark.png, id=25, 564.1075pt x 371.3875pt>
+File: Figures/PC1_PC2_dark.png Graphic file (type png)
+<use Figures/PC1_PC2_dark.png>
+Package pdftex.def Info: Figures/PC1_PC2_dark.png  used on input line 160.
 (pdftex.def)             Requested size: 225.63899pt x 148.55235pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./pair_plot.png> <./Covariance Matrix.png> <./Eval and Evec.png> <./Ev_sorted.png>]
+[3 <./Figures/pair_plot.png> <./Figures/Covariance Matrix.png> <./Figures/Eval and Evec.png> <./Figures/Ev_sorted.png>]
 Underfull \hbox (badness 3735) in paragraph at lines 173--174
 []\OT1/ptm/m/n/8 A. Genender-Feltheimer, \Vi-su-al-iz-ing high di-men-sional and big
  []
@@ -367,14 +367,14 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[4 <./Variance_exp.png> <./PC1_PC2_dark.png>] (PCA.aux)
+[4 <./Figures/Variance_exp.png> <./Figures/PC1_PC2_dark.png>] (PCA.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3959 strings out of 479321
- 58630 string characters out of 2856584
+ 3960 strings out of 479321
+ 58878 string characters out of 2856584
  377633 words of memory out of 3000000
  21387 multiletter control sequences out of 15000+600000
  439828 words of font info for 100 fonts, out of 8000000 for 9000

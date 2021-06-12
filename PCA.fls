@@ -336,48 +336,48 @@ INPUT C:\Users\arman\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmb7t.v
 INPUT C:\Users\arman\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Users\arman\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT C:\Users\arman\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT .\pair_plot.png
-INPUT .\pair_plot.png
-INPUT pair_plot.png
-INPUT .\pair_plot.png
-INPUT .\pair_plot.png
-INPUT .\pair_plot.png
-INPUT .\pair_plot.png
-INPUT .\Covariance Matrix.png
-INPUT .\Covariance Matrix.png
-INPUT Covariance Matrix.png
-INPUT .\Covariance Matrix.png
-INPUT .\Covariance Matrix.png
-INPUT .\Covariance Matrix.png
-INPUT .\Covariance Matrix.png
-INPUT .\Eval and Evec.png
-INPUT .\Eval and Evec.png
-INPUT Eval and Evec.png
-INPUT .\Eval and Evec.png
-INPUT .\Eval and Evec.png
-INPUT .\Eval and Evec.png
-INPUT .\Eval and Evec.png
-INPUT .\Ev_sorted.png
-INPUT .\Ev_sorted.png
-INPUT Ev_sorted.png
-INPUT .\Ev_sorted.png
-INPUT .\Ev_sorted.png
-INPUT .\Ev_sorted.png
-INPUT .\Ev_sorted.png
-INPUT .\Variance_exp.png
-INPUT .\Variance_exp.png
-INPUT Variance_exp.png
-INPUT .\Variance_exp.png
-INPUT .\Variance_exp.png
-INPUT .\Variance_exp.png
-INPUT .\Variance_exp.png
-INPUT .\PC1_PC2_dark.png
-INPUT .\PC1_PC2_dark.png
-INPUT PC1_PC2_dark.png
-INPUT .\PC1_PC2_dark.png
-INPUT .\PC1_PC2_dark.png
-INPUT .\PC1_PC2_dark.png
-INPUT .\PC1_PC2_dark.png
+INPUT .\Figures\pair_plot.png
+INPUT .\Figures\pair_plot.png
+INPUT Figures\pair_plot.png
+INPUT .\Figures\pair_plot.png
+INPUT .\Figures\pair_plot.png
+INPUT .\Figures\pair_plot.png
+INPUT .\Figures\pair_plot.png
+INPUT .\Figures\Covariance Matrix.png
+INPUT .\Figures\Covariance Matrix.png
+INPUT Figures\Covariance Matrix.png
+INPUT .\Figures\Covariance Matrix.png
+INPUT .\Figures\Covariance Matrix.png
+INPUT .\Figures\Covariance Matrix.png
+INPUT .\Figures\Covariance Matrix.png
+INPUT .\Figures\Eval and Evec.png
+INPUT .\Figures\Eval and Evec.png
+INPUT Figures\Eval and Evec.png
+INPUT .\Figures\Eval and Evec.png
+INPUT .\Figures\Eval and Evec.png
+INPUT .\Figures\Eval and Evec.png
+INPUT .\Figures\Eval and Evec.png
+INPUT .\Figures\Ev_sorted.png
+INPUT .\Figures\Ev_sorted.png
+INPUT Figures\Ev_sorted.png
+INPUT .\Figures\Ev_sorted.png
+INPUT .\Figures\Ev_sorted.png
+INPUT .\Figures\Ev_sorted.png
+INPUT .\Figures\Ev_sorted.png
+INPUT .\Figures\Variance_exp.png
+INPUT .\Figures\Variance_exp.png
+INPUT Figures\Variance_exp.png
+INPUT .\Figures\Variance_exp.png
+INPUT .\Figures\Variance_exp.png
+INPUT .\Figures\Variance_exp.png
+INPUT .\Figures\Variance_exp.png
+INPUT .\Figures\PC1_PC2_dark.png
+INPUT .\Figures\PC1_PC2_dark.png
+INPUT Figures\PC1_PC2_dark.png
+INPUT .\Figures\PC1_PC2_dark.png
+INPUT .\Figures\PC1_PC2_dark.png
+INPUT .\Figures\PC1_PC2_dark.png
+INPUT .\Figures\PC1_PC2_dark.png
 INPUT C:\Users\arman\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT PCA.aux
 INPUT C:\Users\arman\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
