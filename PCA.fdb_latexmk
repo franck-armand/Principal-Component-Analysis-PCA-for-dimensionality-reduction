@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1623504737 "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" "PCA.pdf" "PCA" 1623504819
+["pdflatex"] 1623837394 "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" "PCA.pdf" "PCA" 1623837397
   "C:/Users/arman/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1620403117 9524576 a7f0569f2ee3a2ba8427a89730f1172e ""
   "C:/Users/arman/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1621100114 325257 7a232ad811bc115500314483cd62b1cf ""
   "C:/Users/arman/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -76,10 +76,10 @@
   "Figures/PC1_PC2_dark.png" 1623504246 42750 5217aba2d8e8cb7d361215d4736a4b41 ""
   "Figures/Variance_exp.png" 1623504255 44802 fd06fa375c481615c462054ac67fe1f3 ""
   "Figures/pair_plot.png" 1623504163 192595 44c441983c4fd6b1caf1534401f4186e ""
-  "PCA.aux" 1623504739 3038 0dd48c52de5bf47ae287aeceb68d8169 "pdflatex"
-  "PCA.tex" 1623504736 20000 554b73afed9e9204cf1ad12ce21d00d1 ""
-  "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" 1623504736 20000 554b73afed9e9204cf1ad12ce21d00d1 ""
+  "PCA.aux" 1623837396 3038 d8cc430dccdeab17aa79f14a7e15cd73 "pdflatex"
+  "PCA.tex" 1623837390 19933 ac8eb1eb7d5d50b4488a31cdc6430ded ""
+  "b:/_GITHUB/PCA-for-dimensionality-for-reduction/PCA.tex" 1623837390 19933 ac8eb1eb7d5d50b4488a31cdc6430ded ""
   (generated)
-  "PCA.pdf"
   "PCA.aux"
+  "PCA.pdf"
   "PCA.log"
